@@ -1,0 +1,14 @@
+package com.navigator.app.models.interfaceModels;
+
+public enum Menu {
+    LOAD_GRAPH,
+    EXPOTPT_GRAPH,
+    BREADTH_FIRST_SEARCH,
+    DEPTH_FIRST_SEARCH,
+    SHORTEST_PATH,
+    ALL_PAIRS_SHORTEST_PATHS,
+    MINIMUM_SPANNING_TREE,
+    TRAVELING_SALESMAN,
+    INVALID_OPERATION,
+    EXIT
+}
